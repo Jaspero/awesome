@@ -1,5 +1,3 @@
-# Categories
-
 ### Libraries, packages, tools, and other resources that we use in our projects
 
 - [Development](#categories)
