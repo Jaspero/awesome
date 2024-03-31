@@ -1,17 +1,19 @@
 ### Libraries, packages, tools, and other resources that we use in our projects
 
-- [Development](#categories)
-    - [React Native](#reactNative)
-        - [General](#generalReactNative)
+- [Development](#development)
+    - [React Native](#react-native)
+        - [General](#general)
         - [UI](#ui)
         - [Forms](#forms)
-        - [Rich Text](#richText)
-        - [Integrations](#integrationsReactNative)
+        - [Rich Text](#rich-text)
+        - [Integrations](#integrations)
         - [Maps](#maps)
     - [Swift](#swift)
-        - [General](#generalSwift)
-        - [Integrations](#integrationsSwift)
-- [Random Stuff](#randomStuff)
+        - [General](#general)
+        - [Integrations](#integrations)
+    - [Deployment](#deployment)
+      - [iOS](#ios) 
+- [Random Stuff](#random-stuff)
 
 
 # Development
@@ -49,7 +51,6 @@
 * [react-native-geolocation](https://github.com/michalchudziak/react-native-geolocation) - React native geolocation service for iOS + Android
 * [react-native-maps-directions](https://github.com/bramus/react-native-maps-directions) - Directions component for react-native-maps
 
-
 ## Swift
 
 ### General
@@ -59,6 +60,11 @@
 * [firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) - Firebase iOS SDK
 
 
-# Random Stuff
+## Deployment
 
+### iOS
+* [ios-deployment](https://engineering.talkdesk.com/test-and-deploy-an-ios-app-with-github-actions-44de9a7dcef6) - Test and deploy an iOS app with GitHub Actions
+* [install-certificate-ios](https://docs.github.com/en/actions/deployment/deploying-xcode-applications/installing-an-apple-certificate-on-macos-runners-for-xcode-development) - Installing an Apple certificate on macOS runners for Xcode development
+
+# Random Stuff
 * [qr-code-scanner](https://www.adobe.com/express/feature/image/qr-code-generator) - A QR code scanner
